@@ -21,7 +21,8 @@ export default function Hero() {
       severe body dismorphia, unable to fit through doors.
       </p>
 
-    <button className='px-8 py-4 rounded-medium'>
+    <button className='px-8 py-4 rounded-md border-[2px] border-blue-400 border-solid 
+    blueShadow duration-200'>
       Accept & Begin
     </button>
     </div>
